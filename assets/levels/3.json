@@ -1,0 +1,1 @@
+{"startpos": {"0": ["y", "b"]}, "result": {"0": ["y", "b"]}, "last_try": {"1,0": {"command": "right"}, "1,1": {"command": "down"}, "0,2": {"command": "1", "sticker": "green"}, "0,0": {"command": "down"}, "1,2": {"command": "left"}}}
